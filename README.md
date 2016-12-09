@@ -4,7 +4,7 @@
 Website: https://www.streak.com/
 API Documentation: https://www.streak.com/api/
 
-This is .NET/C# wrapper which can be used to interact with the Streak API thereby enabling you to work with pipelines, boxes, fields etc. This project only has one dependency: Newtonsoft.Json v. 9.0.1+ (https://www.nuget.org/packages/newtonsoft.json/) 
+This is .NET/C# wrapper which can be used to interact with the Streak API thereby enabling you to work with pipelines, boxes, fields etc. This projecty has only one dependency: Newtonsoft.Json v. 9.0.1+ (https://www.nuget.org/packages/newtonsoft.json/) 
 
 The wrapper is written to give users two ways of communicating with the API: 
 
