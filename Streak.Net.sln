@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streak.Net.Api", "src\Streak.Net.Api\Streak.Net.Api.csproj", "{FE78CEF5-A802-4EFE-B4E4-AAE36A037872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streak.Net.Api.Tests", "tst\Streak.Net.Api.Tests\Streak.Net.Api.Tests.csproj", "{F19B4FB0-2A4D-450B-8236-22C9C26657C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE78CEF5-A802-4EFE-B4E4-AAE36A037872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE78CEF5-A802-4EFE-B4E4-AAE36A037872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE78CEF5-A802-4EFE-B4E4-AAE36A037872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE78CEF5-A802-4EFE-B4E4-AAE36A037872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F19B4FB0-2A4D-450B-8236-22C9C26657C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19B4FB0-2A4D-450B-8236-22C9C26657C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19B4FB0-2A4D-450B-8236-22C9C26657C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19B4FB0-2A4D-450B-8236-22C9C26657C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
